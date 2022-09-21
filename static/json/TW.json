@@ -1,0 +1,48 @@
+
+{
+  "string_eula" : "<span> 感謝您使用「AR動滋動x Uniigym APP」（以下稱「本平台」），本平台係由「優力勁聯股份有限公司」（以下稱「本公司」）所建置及經營。本服務條款為本平台之相關使用規範，為本平台使用者與本公司之間訂定之條款。</span>",
+  "string_help":"<span>1、建議將心率胸帶電極沾濕後佩戴，可避免因皮膚太幹導致心率帶電極未能有效感應。</span><span>2、當無法搜尋到心率帶時，可以嘗試將心率帶的感測器拆離胸帶，重新裝上後再重新搜尋。</span><span>3、為什麽心率帶可以搜尋到卻連接不上？</span><span>（1）請檢查心率帶是否正確佩戴（參閱心率帶的說明書可了解正確佩戴方式）</span><span>（2）請檢查心率帶的電池是否正確安裝，電量不足也會導致連接不上，需更換電池。</span><span>（3）請檢查有無其它用戶正在連接同一心率帶，心率帶不支援多部設備同時連接。</span>",
+  "string_Pairable_device_title":"【可配對裝置】",
+  "string_Pairable_device_des":"<span>適合裝置：心率胸帶/臂帶/智慧手錶/手環，等有開放式藍芽配對的智慧產品。</span><span>注意：如果胸帶偵測不到，建議沾濕織帶，將感測器置於胸前。</span>",
+  "string_How_to_pair_title":"【配對方法】",
+  "string_How_to_pair_des":"<span>1. 開啟智慧型手機的藍芽功能。</span><span> 2. 自智慧型手機開啟Uniigym APP，選擇課程後，即可在介面點選配對心率裝置。</span>",
+  "string_While_your_title":"【當APP無法搜尋到藍芽心率裝置時】",
+  "string_While_your_des":"<span>可以嘗試以下做法：</span><span>1. 將心率帶的感測器拆離胸帶，重新裝上後再重新搜尋。</span><span>2. 將手機裡的藍芽配對解除後再重新連接。</span>",
+  "string_Why_my_heart_title":"【為什麽心率裝置可以搜尋到卻連接不上？】",
+  "string_Why_my_heart_des":"<span>1. 請檢查心率帶是否正確佩戴（參閱心率裝置的說明書可了解正確佩戴方式）</span><span>2. 請檢查心率帶的電池是否正確安裝，電量不足也會導致連接不上，需更換電池。</span><span>3. 請檢查有無其它用戶正在連接同一心率帶，心率帶不支援多部設備同時連接。</span>",
+  
+  "BestPosition_title":"【體感模式】",
+  "BestPosition_des":"<span>訓練前，請先調整手機的前置鏡頭與用戶站立的相對位置，手機距離地面的最佳高度為0.6- 1.6米，太近或太遠可能會導致數據紀錄不準確、無法識別用戶等情況。</span><span>訓練時，用戶正對手機鏡頭，左右活動的範圍在1.6米之內，請保證室內背景光線不要過暗或處於較強的逆光環境，否則可能影響動作檢測的識別效率與正確度。</span>",
+  "BestPosition_title1":"【全身模式】",
+  "BestPosition_des1":"<span>距離用戶的最佳距離為2.0-3.6公尺之間，請確保全身在系統指示的體感偵測區域內。</span>",
+  "BestPosition_title2":"【半身模式】",
+  "BestPosition_des2":"<span>手機距離用戶的最佳距離為1.5-2公尺之間，只偵測並記錄上半身肢體相關運動數據。</span>",
+
+  "WhatIsSmartTrain_title":"【體感模式】",
+  "WhatIsSmartTrain_des":"<span>使用此模式運動時，裝置的前置鏡頭會捕捉您的骨骼點來跟教練做即時的動作比對，系統會根據兩者的動作比對正確度給出分數。</span><span>每一個小節結束後可以查看本次的訓練得分、得分排行、心率變化、精彩動作回放、動作修正等相關運動數據。</span>",
+  "WhatIsSmartTrain_title1":"【全身/半身】",
+  "WhatIsSmartTrain_des1":"<span>您可以根據自己的環境空間大小與身體狀況，選擇用適合自己偵測模式。</span>",
+  "WhatIsSmartTrain_title2":"【儲存影片】",
+  "WhatIsSmartTrain_des2":"<span>您可以將在訓練過程中精彩的瞬間分享給社群朋友</span><span>也可以用來做細微的動作修正、姿勢調整！</span>",
+  "WhatIsSmartTrain_title3":"【體感控制】",
+  "WhatIsSmartTrain_des3":"<span>訓練結束時，因為手機距離較遠，您也可以做出指定的動作來控制手機！</span>",
+
+  "ScreencastHelp_title":"【螢幕投影/鏡射】",
+  "ScreencastHelp_des":"<span>1.行動裝置跟電視的Wi-Fi 功能打開後將電視切換到投影功能待命.</span><span>2.接著點選手機上的無線投影功能，手機會自動搜尋可以投影的裝置.</span><span>3.找到電視之後就可自動連接並且將畫面同步到電視上.</span>",
+  "ScreencastHelp_title1":"【為什麽找不到螢幕投放的裝置？】",
+  "ScreencastHelp_des1":"<span>1.電視與手機沒有連接在同一個Wi-Fi，或者手機可能連接了4/5G網路.</span><span>2.電視機型老舊，不支援DLNA或AirPlay投放，建議使用第三方設備（HDMI線、Chrome Cast）來投放手機螢幕.</span>",
+  "ScreencastHelp_title2":"【如何修正畫面延遲？】",
+  "ScreencastHelp_des2":"<span>畫面延遲可能會有以下幾個原因：</span><span>1.配對中的電視沒有連到網路.</span><span>2.手機的網速不穩定.</span><span>3.同網路下是否有其他占用頻寬的設備?</span>",
+  "ScreencastHelp_des3":"<span>建議做以下幾項檢查排除網路的問題，如有必要，可重開路由器等網路設備.</span><span>1.手動關閉手機上閒置的背景程式.</span><span>2.檢查網路速度是否符合最低網速需求（可下載免費測速軟體 SpeedTest 測試）</span><span>3.手機重新開機.</span><span>4.可使用HDMI線做螢幕投影.</span>",
+
+  "string_course":"課程預覽",
+  "course_totalCalorie":"大卡",
+  "course_courseDifficulty":"難度",
+  "course_totalDuration":"分鐘",
+  "course_heartbeat":"心率带",
+  "course_videolist_title":"課程環節",
+  "course_videolistright":"分解教學",
+  "string_course_buy":"開啓家庭AI健身"
+
+
+}
