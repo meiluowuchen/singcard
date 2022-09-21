@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "n26";
+    src: url(GT-America-Extended-Medium.latin.woff2);
+}
+
+@font-face {
+    font-family: "n26B";
+    src: url(GT-America-Standard-Bold.latin.woff2);
+}
+
+@font-face {
+    font-family: "n26R";
+    src: url(GT-America-Standard-Regular.latin.woff2);
+}
